@@ -72,7 +72,3 @@ The Weather App uses the following dependencies:
 ## Contributing
 
 Contributions to the Weather App are welcome! If you find any bugs, have feature requests, or want to contribute enhancements, please open an issue or submit a pull request on the GitHub repository.
-
-## License
-
-The Weather App is released under the MIT License. See the `LICENSE` file for more information.
